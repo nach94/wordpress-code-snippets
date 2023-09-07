@@ -1,0 +1,3 @@
+This code add extra functionality for Measurement Price Calculator Plugin by SkyVerge (https://woocommerce.com/es-es/products/measurement-price-calculator/)
+
+Natively, this plugin does not include functionality that allows a variation of a Woocommerce product to be ordered in units. That is why by means of a small Javascript and taking advantage of the native functionalities of Woocommerce, I managed to add this functionality.
