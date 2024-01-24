@@ -1,0 +1,1 @@
+Function to add button to share posts with whatsapp in single post pages.
